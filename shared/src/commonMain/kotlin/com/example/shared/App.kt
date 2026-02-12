@@ -21,7 +21,7 @@ fun App(platformName: String) {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Hello aaa $name!",
         modifier = modifier
     )
 }
